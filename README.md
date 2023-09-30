@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Supeshala Sumanasena</h1>
 <h3 align="center">Through technical knowledge and experience , find quality humane solutions by facing various challenges in new world and Practical application of theoretical knowledge with a creative and strong mindset.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahansupeshala&label=Profile%20views&color=0e75b6&style=flat" alt="sahansupeshala" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahansupeshala&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahansupeshala" alt="sahansupeshala" /></a> </p>
 
